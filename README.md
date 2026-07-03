@@ -6,7 +6,6 @@
 <div markdown="1" align="center">
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/b72dd7a07942d939db01/maintainability)](https://codeclimate.com/github/BSski/DjangoMusic/maintainability)
-[![CodeFactor](https://www.codefactor.io/repository/github/bsski/django-music/badge)](https://www.codefactor.io/repository/github/bsski/django-music)
 [![codecov](https://codecov.io/gh/BSski/DjangoMusic/branch/main/graph/badge.svg?token=Y21Z7RMYJL)](https://codecov.io/gh/BSski/DjangoMusic)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 <!-- [![Demo Uptime](https://img.shields.io/uptimerobot/ratio/7/m791970415-adc4bd6d2b370b6f9fdce35f)](https://django-music-bsski.herokuapp.com/) -->
