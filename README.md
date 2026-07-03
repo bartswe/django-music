@@ -14,15 +14,6 @@
 <!-- [![Heroku](https://pyheroku-badge.herokuapp.com/?app=django-music-bsski&style=flat)](https://django-music-bsski.herokuapp.com/) -->
 </div>
 
-
-<h3 align="center">
-  :fireworks: Live demo :fireworks:
-</h3>
-
-<p align="center">
-  <b>[Heroku retracted its free tier, therefore all my demos are unavailable until further notice.]</b>
-</p>
-
 <!--
 <p align="center">
   https://django-music-bsski.herokuapp.com/
@@ -122,4 +113,4 @@ Room for improvement:
 
 ## :construction_worker: Author
 
-- [@BSski](https://www.github.com/BSski)
+- [@bartswe](https://www.github.com/bartswe)
